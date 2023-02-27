@@ -1,4 +1,5 @@
-# Hi my name is Abiodun Ojo
+### Hi my name is Abiodun Ojo
+
 ### **I am a data analyst**
 
 - 🌱 I’m currently learning data science and machine learning
