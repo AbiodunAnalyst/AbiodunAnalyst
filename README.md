@@ -1,4 +1,4 @@
-### Hi my name is Abiodun Ojo
+### Hi my name is Abiodun
 
 ### **I am a data analyst**
 
