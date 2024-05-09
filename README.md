@@ -1,10 +1,10 @@
 ### Hi my name is Abiodun
 
-### **I am a data analyst**
+### **I am a Big Data analyst**
 
-- 🌱 I’m currently learning data science and machine learning
-- 👯 I’m looking to collaborate with other data analyst, data scientist and machine learning expert
-- 2023 Goals: improve my technical skills 
+- 🌱 I’m currently learning Big data analytics @ SHU
+- 👯 I’m looking to collaborate with other data analyst, data scientist, machine learning expert, and Data Engineer
+
 
 <!--
 **AbiodunAnalyst/AbiodunAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
