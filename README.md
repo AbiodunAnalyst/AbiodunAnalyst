@@ -3,7 +3,7 @@
 
 I am a Data and BI Specialist with over five years of professional experience delivering **data analytics**, **performance reporting**, **ETL pipelines**, and **operational intelligence solutions** across healthcare, technology, and continuous improvement environments.  
 
-My work focuses on transforming complex datasets into meaningful insights, building automated data pipelines, and developing product that drive strategic and operational decision-making. I am passionate about leveraging data to improve **patient care**, **service efficiency**, and **organisation-wide performance**.
+My work focuses on transforming complex datasets into meaningful insights, building automated data pipelines, and developing products that drive strategic and operational decision-making. I am passionate about leveraging data to improve **patient care**, **service efficiency**, and **organisation-wide performance**.
 
 ---
 
@@ -50,3 +50,4 @@ To contribute actively to global data communities through open-source, technical
 
 ---
 ### ✨ *Thanks for visiting my GitHub — feel free to explore, collaborate, or reach out!*  
+ 
