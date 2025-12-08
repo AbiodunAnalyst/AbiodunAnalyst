@@ -45,7 +45,7 @@ To contribute actively to global data communities through open-source, technical
 
 ## 🌐 **Connect With Me**
 - **LinkedIn:** [linkedin.com/in/abiodun-ojo-bb6828214](https://linkedin.com/in/abiodun-ojo-bb6828214)  
-- **Website:** *([](https://medium.com/@joeph8501))*  
+- **Website:** *[Website](https://medium.com/@joeph8501)*  
 - **Email:** joeph8501@gmail.com  
 
 ---
