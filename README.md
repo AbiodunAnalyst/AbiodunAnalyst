@@ -27,8 +27,8 @@ My work focuses on transforming complex datasets into meaningful insights, build
 ---
 
 ## 🧭 **My Mission**
-To deliver data-driven solutions that improve healthcare outcomes, operational efficiency, and strategic decision-making.  
-To contribute actively to global data communities through open-source, technical innovation, and knowledge sharing.
+- To deliver data-driven solutions that improve healthcare outcomes, operational efficiency, and strategic decision-making.  
+- To contribute actively to global data communities through open-source, technical innovation, and knowledge sharing.
 
 ---
 
