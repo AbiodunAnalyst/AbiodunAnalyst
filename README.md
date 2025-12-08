@@ -17,12 +17,12 @@ My work focuses on transforming complex datasets into meaningful insights, build
 ---
 
 ## 🚀 **Technical Skills**
-**Languages:** Python, R, SQL, DAX  
-**Data Engineering:** ETL/ELT, Data Warehousing (Kimball), Airflow/Prefect, BigQuery, Azure, PostgreSQL  
-**BI & Visualisation:** Power BI, Tableau, Excel (Advanced)  
-**Machine Learning:** Predictive modelling, classification, regression, model evaluation  
-**Tools:** Git, Jupyter, Oracle SQL Developer, SAS, Hadoop/Hive  
-**Special Interests:** Healthcare analytics, operational performance, predictive maintenance
+- **Languages:** Python, R, SQL, DAX  
+- **Data Engineering:** ETL/ELT, Data Warehousing (Kimball), Airflow/Prefect, BigQuery, Azure, PostgreSQL  
+- **BI & Visualisation:** Power BI, Tableau, Excel (Advanced)  
+- **Machine Learning:** Predictive modelling, classification, regression, model evaluation  
+- **Tools:** Git, Jupyter, Oracle SQL Developer, SAS, Hadoop/Hive  
+- **Special Interests:** Healthcare analytics, operational performance, predictive maintenance
 
 ---
 
