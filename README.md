@@ -50,6 +50,9 @@ My work focuses on transforming complex datasets into meaningful insights, build
 
 **Service_charge** *[Service_charge](https://servicecharge-vbifffsc9ydwrc4cnwfuyd.streamlit.app/)*
 
+**Predictive_App:** *[PredictiveApp](https://predictivemaintenecemodelproject-6lvf7mfwxh8mkf5hwxdf7s.streamlit.app/)*
+
+
 
 
 
